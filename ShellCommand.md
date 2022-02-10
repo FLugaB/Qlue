@@ -1,4 +1,4 @@
-Shell Command Ans:
+# Shell Command Ans :
 (MacOs)
 -   ```
     $ nano mig33/inner.folder/1.txt
